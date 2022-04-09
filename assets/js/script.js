@@ -17,7 +17,7 @@ fetch('./assets/data/myMovies.json')
                                         
                                                             <div class="cardBack">
                                                                 <div class="cardInfo">
-                                                                    <h2>${movieObj.original_title}</h2>
+                                                                    <h2 class="p-2">${movieObj.original_title}</h2>
                                                                     <div class="average">${movieObj.vote_average}</div>
                                                                 </div>
                                                                 <div class="info">
