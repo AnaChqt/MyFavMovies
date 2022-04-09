@@ -40,10 +40,12 @@ main{
 
 .card {
   background: transparent;
+  border-style: none;
   width:300px;
   perspective: 1000px;
   margin: 15px;
   height: 500px;
+  border-radius:30px;
 }
 
 .cardDesign {
